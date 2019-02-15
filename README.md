@@ -1,8 +1,6 @@
 # my-prices
 Permite registrar los precios y consultarlos. Además compartir con la comunidad.
 
-# Para el desarrollo en Linux>
-
 # Guia de desarrollo para Linux:
 https://cordova.apache.org/docs/en/latest/guide/cli/index.html
 
