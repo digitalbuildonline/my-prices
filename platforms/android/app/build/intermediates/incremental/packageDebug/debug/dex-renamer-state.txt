@@ -1,4 +1,4 @@
-#Fri Feb 22 18:29:28 ART 2019
+#Thu Feb 28 18:45:48 ART 2019
 base.0=/home/user/proyectos/my-prices/my-prices/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

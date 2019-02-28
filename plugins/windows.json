@@ -9,6 +9,9 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "HelloWorld"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "HelloWorld"
     }
   },
   "dependent_plugins": {}
